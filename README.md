@@ -9,6 +9,8 @@
 ![Tests](https://img.shields.io/badge/tests-437%20passed-brightgreen)
 ![Live trading](https://img.shields.io/badge/live%20trading-disabled-red)
 
+[Overview](#what-it-is) · [Architecture](#architecture) · [Safety](#safety-and-control) · [Results](#results-from-the-real-campaign-payout_v1-sepoct-2026)
+
 </div>
 
 ---
